@@ -2,6 +2,8 @@
 
 This repository provides an overview of a project designed for a class, where an **LLM API** was prompted for the task of **entity recognition**. The project focuses on effectively interacting with a language model API to identify entities in text, while exploring the impact of different demonstration modes and shot variations on model performance.
 
+> **Note:** The exact implementation code is not provided here, but if you're interested in discussing the project or seeing specific details, feel free to reach out to **anirudhm@andrew.cmu.edu**!
+
 ---
 
 ## Project Overview
